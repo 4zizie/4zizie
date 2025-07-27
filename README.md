@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm Abdul Aziz Attohary</h1>
+<h3 align="center">💻 Web Developer | 🎯 Tech Enthusiast | 🚀 Learning ML</h3>
 
-<!--
-**4zizie/4zizie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning+new+tech;Let's+build+something+awesome!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Badges -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=python&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me -->
+### 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **JavaScript, React, and Machine Learning**
+- 💼 Exploring web development using **Node.js** and **Express**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/yourusername)
+- 📫 How to reach me: **youremail@example.com**
+- ⚡ Fun fact: I like building small games and automating tasks with Python!
+
+<!-- GIF Image -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+---
+
+<!-- Skills Section -->
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github,git,vscode" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+
+---
+
+<!-- Snake Animation -->
+### 🐍 GitHub Snake Contribution Animation
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
