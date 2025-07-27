@@ -58,7 +58,7 @@
 
 <!-- Snake Animation -->
 ### 🐍 Snake GitHub Activity
-![github-snake](https://github.com/4zizie/snk/blob/output/github-snake.svg)
+![github-snake](https://raw.githubusercontent.com/4zizie/snk/ea9d8d81988a9c9e67ee4a7288f706d848e5793f/github-contribution-grid-snake.svg)
 
 ---
 
