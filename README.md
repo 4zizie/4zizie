@@ -20,8 +20,8 @@
 
 - 🌱 I’m currently learning **JavaScript, React, and Machine Learning**
 - 💼 Exploring web development using **Node.js** and **Express**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/yourusername)
-- 📫 How to reach me: **youremail@example.com**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/4zizie)
+- 📫 How to reach me: **thoharyabdulaziz@example.com**
 - ⚡ Fun fact: I like building small games and automating tasks with Python!
 
 ---
