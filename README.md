@@ -60,6 +60,7 @@
 ### 🐍 Snake GitHub Activity
 
 ![github-snake](https://github.com/4zizie/snk/blob/output/github-snake.svg)
+
 ---
 
 <!-- Footer -->
