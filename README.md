@@ -24,13 +24,14 @@
 - 📫 How to reach me: **youremail@example.com**
 - ⚡ Fun fact: I like building small games and automating tasks with Python!
 
-<!-- GIF Image -->
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ---
 
 <!-- Skills Section -->
 ### 🛠️ Languages & Tools
+
+<!-- GIF Image -->
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github,git,vscode" />
