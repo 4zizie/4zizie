@@ -29,11 +29,19 @@
 <!-- Skills Section -->
 ### 🛠️ Languages & Tools
 
-<!-- GIF Image -->
-<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github,git,vscode" />
+</p>
+
+<!-- GIF Coding -->
+<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4zizie&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zizie&layout=compact&theme=tokyonight" />
 </p>
 
 ---
