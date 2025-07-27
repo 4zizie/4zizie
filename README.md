@@ -57,10 +57,9 @@
 ---
 
 <!-- Snake Animation -->
-### 🐍 GitHub Snake Contribution Animation
+## 🐍 Snake Game in GitHub Profile
 
-![Snake animation](https://github.com/Platane/snk.git)
-
+![snake gif](https://github.com/4zizie/snk/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- Footer -->
