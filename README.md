@@ -40,16 +40,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4zizie&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zizie&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4zizie&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zizie&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
